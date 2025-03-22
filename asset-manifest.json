@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uwp-final-project/static/css/main.7135d1cc.css",
+    "main.js": "/uwp-final-project/static/js/main.6ae17aa9.js",
+    "static/js/453.e243fcc3.chunk.js": "/uwp-final-project/static/js/453.e243fcc3.chunk.js",
+    "index.html": "/uwp-final-project/index.html",
+    "main.7135d1cc.css.map": "/uwp-final-project/static/css/main.7135d1cc.css.map",
+    "main.6ae17aa9.js.map": "/uwp-final-project/static/js/main.6ae17aa9.js.map",
+    "453.e243fcc3.chunk.js.map": "/uwp-final-project/static/js/453.e243fcc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7135d1cc.css",
+    "static/js/main.6ae17aa9.js"
+  ]
+}
